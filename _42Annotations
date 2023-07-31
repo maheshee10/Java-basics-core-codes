@@ -1,0 +1,7 @@
+// gives extra information to compiler and runtime
+examples of annotation - @overriding
+by giving compiler annotation it shows us what could be done
+even if we dont give annotation nothing changes in code
+but if we give annotation - helpful in debugging logical problesms - which are also clled as bugs
+bugs are not compile or runtime issues -- logical errors
+mostly annotations - used - in frameworks - like spring
